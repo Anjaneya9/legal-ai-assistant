@@ -22,46 +22,55 @@ This application follows a human-first design approach, focused on making comple
 ## Nielsen's Heuristics Implementation
 
 1. **Visibility of system status**
+
    - Loading indicators when the AI is processing
    - Clear feedback on document upload and analysis status
    - Visual indicators for chat message status (sent, received)
 
 2. **Match between system and real world**
+
    - Legal terms explained in plain language
    - Familiar chat interface similar to messaging apps
    - Document representations that match real-world counterparts
 
 3. **User control and freedom**
+
    - Easy navigation with bottom tabs
    - Ability to cancel operations
    - Clear paths to return to previous screens
 
 4. **Consistency and standards**
+
    - Consistent UI patterns throughout the app
    - Standard mobile interaction patterns
    - Uniform color scheme and typography
 
 5. **Error prevention**
+
    - Confirmations for critical actions
    - Input validation
    - Clear instructions and placeholder text
 
 6. **Recognition rather than recall**
+
    - Suggested questions in the chat interface
    - Labeled icons and buttons
    - Visual categorization of documents
 
 7. **Flexibility and efficiency of use**
+
    - Quick action buttons for common tasks
    - Filters for document management
    - Shortcut suggestions
 
 8. **Aesthetic and minimalist design**
+
    - Clean, uncluttered interface
    - Focused content areas
    - Thoughtful use of white space
 
 9. **Help users recognize, diagnose, and recover from errors**
+
    - Clear error messages
    - Suggestions for resolving issues
    - Graceful error handling
@@ -93,3 +102,16 @@ eas build --platform ios
 ```
 
 This will create a build that can be submitted to the App Store or installed directly on devices.
+
+### 🔧 iOS Development Build (Staged Branch)
+
+An iOS development build was created from the `staged` branch. You can use the link below to verify and test the build:
+
+🔗 [Verify iOS Build](https://expo.dev/accounts/vmanjaneya/projects/legal-ai-assistant/builds/023ec802-a963-4b4a-b6af-3146d8d901d7)
+
+#### 🧪 Test Account Credentials
+
+👤 Username: vmanjaneya
+🔑 Password: Anil@123
+
+This account is provided for demo and testing purposes only.
